@@ -42,7 +42,8 @@ Road-Accident-Severity-Prediction/
 │
 ├── Accident_Dataset final.csv        # Dataset
 ├── Colab Code.py     # Source Code
-├── Machine Learning Based Road Accident Severity.pdf
+├── Machine Learning Based Road Accident Severity #Latex code
+├── Machine Learning Based Road Accident Severity.pdf # IEEE Conference Format
 ├── README.md
 │
 ├── Results/
